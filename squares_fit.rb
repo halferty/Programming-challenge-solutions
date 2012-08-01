@@ -1,7 +1,7 @@
 # Problem:
 #
-# Given a list of heights, find the least number of rectangles
-# that can full the area under the graph.
+# Given a histogram, find the least number of rectangles
+# that can full the area.
 #
 # Example:
 # input = 1,2,2,1,0,0,0,5,5,4,1,0,4
